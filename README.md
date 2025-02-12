@@ -6,7 +6,7 @@ Nach Änderungen im Repository müssen dort die Laufzeitumgebungen neu erstellt 
 Unveränderte Notebooks sind in der Regel nach kurzer Zeit in lauffähigem Zustand verfügbar.
 |  Notebook | mybinder.org Umgebung |
 | --------- | ---------------- | 
-| [2.1 Quantile und Quantilfunktionen](2.1_quantile.ipynb)              | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rocker-org/binder/ml4economics/quantilplots/HEAD?labpath=2.1_quantile.ipynb) |
+| [2.1 Quantile und Quantilfunktionen](2.1_quantile.ipynb)              | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ml4economics/quantilplots/HEAD?labpath=2.1_quantile.ipynb) |
 | [2.2 Einfache Quantilplots](2.2_einfache_quantilplots.ipynb)           | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ml4economics/quantilplots/HEAD?labpath=2.2_einfache_quantilplots.ipynb) |
 | [2.3 Empirische Quantilfunktion](2.3_empirische_quantilfunktion.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ml4economics/quantilplots/HEAD?labpath=2.3_empirische_quantilfunktion.ipynb) |
 | [3.1 Grundlagen Q-Q Plots](3.1_grundlagen_qqplots.ipynb)               | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ml4economics/quantilplots/HEAD?labpath=3.1_grundlagen_qqplots.ipynb) |
